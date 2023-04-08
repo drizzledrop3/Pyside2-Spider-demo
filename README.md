@@ -24,6 +24,11 @@
 其实还给了第四个下载路径，用`Selenium实现`的，但是考虑到可移植性，在放到GitHub时就舍弃了，但该说不说，在不会js逆向的时候，Selenium真好用啊(笑)
 
 
+封装为一个EXE文件了，需要自取：
+Novel_Download.exe
+https://www.aliyundrive.com/s/K8JpDsAJfAf
+提取码: gp29
+
 
 
 ```python
